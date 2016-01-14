@@ -1,0 +1,30 @@
+{
+  "name": "numbersiege",
+  "version": "0.0.1",
+  "description": "A game about numbers and sieges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siri0n/NumberSiege.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siri0n/NumberSiege/issues"
+  },
+  "homepage": "https://github.com/Siri0n/NumberSiege#readme",
+  "devDependencies": {
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.0",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "bacon.model": "^0.1.12",
+    "baconjs": "^0.7.83",
+    "react": "^0.14.6"
+  }
+}
