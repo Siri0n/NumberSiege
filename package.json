@@ -17,9 +17,12 @@
   },
   "homepage": "https://github.com/Siri0n/NumberSiege#readme",
   "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
     "babelify": "^7.2.0",
     "browserify": "^13.0.0",
     "gulp": "^3.9.0",
+    "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.7.0"
   },
   "dependencies": {
